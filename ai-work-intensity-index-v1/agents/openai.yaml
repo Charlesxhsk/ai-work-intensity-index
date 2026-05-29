@@ -1,0 +1,7 @@
+interface:
+  display_name: "AI+工作强度指数v1"
+  short_description: "每日复盘 Codex 使用量对应的工作强度"
+  default_prompt: "Use $ai-work-intensity-index-v1 to review today's Codex work intensity."
+
+policy:
+  allow_implicit_invocation: true
